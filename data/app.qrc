@@ -1,0 +1,6 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource prefix="/">
+		<file alias="app-icon.png">redketchup/android-chrome-512x512.png</file>
+	</qresource>
+</RCC>

@@ -1,0 +1,3 @@
+[submodule "modules/diacpp-interface"]
+	path = modules/diacpp-interface
+	url = git@github.com:xqux/diacpp-interface
